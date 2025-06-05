@@ -6,7 +6,7 @@ I am a student Software Development HBO at Fontys Eindhoven in the Netherlands. 
 Python, Lua, JavaScript, TypeScript, HTML, CSS, C#, C++
 
 :books: **Frameworks & Libraries**  
-React, Svelte, Vue, Tailwind CSS, jQuery, Flask, Express
+React, Svelte, Vue, Tailwind, jQuery, Flask, Express
 
 :hammer_and_wrench: **Platforms & Tools**  
 .NET, Arduino, Raspberry Pi
